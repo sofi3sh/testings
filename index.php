@@ -54,7 +54,8 @@ echo '<p class="test">'."$a".'</p>';
 <body>
 <p>
     Hello World
-</p>    
+</p>  
+<span>gfhfjhg</span>  
 
 </body>
 </html>
